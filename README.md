@@ -1,8 +1,5 @@
 # Keen Kettle: Landing page · Netlify (protected)
 
-> **This is a template, not a repository.** Copy it out and prepare it before an eval (steps below).
-> Nothing here is deployed.
-
 A one-page landing site on **Netlify**, with preview links **behind a Netlify password** (non-production deploys only; production stays public). Static Vite +
 TypeScript, no framework. The page reads a live list from the shared Supabase test project.
 Row in the support matrix: impeccable-reviews#302.
@@ -13,7 +10,7 @@ Filled in at prep time.
 
 | Production | Preview gate |
 |---|---|
-| _not deployed_ | yes |
+| https://keen-kettle-x13u.netlify.app | yes (Netlify password, non-production deploys) |
 
 ## Names
 
